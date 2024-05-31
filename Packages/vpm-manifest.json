@@ -17,6 +17,9 @@
     },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.3"
     }
   },
   "locked": {
@@ -54,6 +57,12 @@
     "nadena.dev.ndmf": {
       "version": "1.4.1",
       "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.3",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.1.0 <3.6.0"
+      }
     }
   }
 }
