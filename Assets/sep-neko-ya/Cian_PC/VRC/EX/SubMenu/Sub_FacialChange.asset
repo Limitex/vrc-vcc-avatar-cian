@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sub_FacialChange
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Unlock
+    icon: {fileID: 0}
+    type: 101
+    parameter:
+      name: FC
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Facial 1
+    icon: {fileID: 2800000, guid: 81ed0072f77a3c44ebbd90c4b09dda1d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d2c518b6bc0d92b4bb371033cbc7ce9e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Facial 2
+    icon: {fileID: 2800000, guid: 491764457a60ca94d836790352183d49, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 33480493860f4624ea832e2efb70d3ea, type: 2}
+    subParameters: []
+    labels: []
+  - name: Facial 3
+    icon: {fileID: 2800000, guid: 398a4622fc49c514aa33894980e389ee, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 87d68656ac494bf4ca7dbea1db869b51, type: 2}
+    subParameters: []
+    labels: []

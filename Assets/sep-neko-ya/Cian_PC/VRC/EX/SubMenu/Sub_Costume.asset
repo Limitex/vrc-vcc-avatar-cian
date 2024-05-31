@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sub_Costume
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Costume Type
+    icon: {fileID: 2800000, guid: 24db6468bcab18645aea31475d1a8411, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 2
+    style: 0
+    subMenu: {fileID: 11400000, guid: dea37a6ae684e674d94f2889221f1cb7, type: 2}
+    subParameters: []
+    labels: []
+  - name: Kemo Ears ON/OFF
+    icon: {fileID: 2800000, guid: e7330908dac462e48be8093c8dcd799b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 033867ef6de995f4ba8cb5d3b8ec498d, type: 2}
+    subParameters: []
+    labels: []
+  - name: Kemo Tail ON/OFF
+    icon: {fileID: 2800000, guid: 683ff036392ff0a4d9cab8264e30ad92, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a8902b5f8b3e0404584c77a3caec677c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Gloves ON/OFF
+    icon: {fileID: 2800000, guid: b6523e0da4f8e674ba552238937a450f, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 7319f0f41d48fab48a07afc55f04d9e6, type: 2}
+    subParameters: []
+    labels: []
+  - name: Tights ON/OFF
+    icon: {fileID: 2800000, guid: fa50a678022a8be42b3f2137a1efb7be, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 08ea7bf1c9bc55041b9abc55b02f502e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Bag ON/OFF
+    icon: {fileID: 2800000, guid: 2e89482e52ccae4458d63df609c2e202, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c94ba4aba4820ce44969fce31810ecfd, type: 2}
+    subParameters: []
+    labels: []
+  - name: Loafers ON/OFF
+    icon: {fileID: 2800000, guid: a8a9df94f724796418220d48a53f245c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 513a2c7cc392c3b4d8dedb3918ea6255, type: 2}
+    subParameters: []
+    labels: []

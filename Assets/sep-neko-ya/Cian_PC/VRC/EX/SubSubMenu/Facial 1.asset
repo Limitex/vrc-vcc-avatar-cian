@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Facial 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: chill
+    icon: {fileID: 2800000, guid: 25d0e26114cbc9841ab255eec295f45b, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: donbiki
+    icon: {fileID: 2800000, guid: d2a0ed7a19595d449b2ce8ecfa6e858b, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: joy
+    icon: {fileID: 2800000, guid: a83b8f1c2b5fef649b4fcec823b14ad7, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: shiitake
+    icon: {fileID: 2800000, guid: 4d37cd293b22a2c48bff79fa53331e89, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: happy
+    icon: {fileID: 2800000, guid: cffd49ebc84a1084f8930fa327c04b8f, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: happy_2
+    icon: {fileID: 2800000, guid: f5721748ef29e1b428735c9ad76e6660, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: kyu
+    icon: {fileID: 2800000, guid: a22f50611e16b4e4ca143a920caaa0c7, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: kyu_2
+    icon: {fileID: 2800000, guid: 5989228af6479944b96f126ec31b63b1, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
