@@ -8,6 +8,9 @@
     },
     "com.vrchat.avatars": {
       "version": "3.5.1"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.9"
     }
   },
   "locked": {
@@ -23,6 +26,12 @@
       "version": "3.5.1",
       "dependencies": {
         "com.vrchat.base": "3.5.1"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.9",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2.x || 3.3.x || 3.4.x || 3.5.x"
       }
     }
   }
