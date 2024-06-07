@@ -1014,6 +1014,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &467097043 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5338267260646132325, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+    type: 3}
+  m_PrefabInstance: {fileID: 817583240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &467097046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467097043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: breast_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: breast_small
 --- !u!4 &470168006 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4833635386375092819, guid: dd9f8dc1549ab05468205eeab5c2bd47,
@@ -2084,10 +2111,60 @@ PrefabInstance:
       propertyPath: m_Name
       value: Armature.1
       objectReference: {fileID: 0}
+    - target: {fileID: 2553712368303852584, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553712368303852584, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553712368303852584, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3051644707026086917, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3051644707026086917, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3051644707026086917, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3212661042445404190, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4049772436653298983, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
         type: 3}
       propertyPath: m_Name
       value: schoolelegan
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026399424193485560, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026399424193485560, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026399424193485560, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5324148238511937273, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
         type: 3}
@@ -2139,6 +2216,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5526684962185096093, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849495161034281145, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849495161034281145, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849495161034281145, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2151,6 +2248,26 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 548623670}
+    - targetCorrespondingSourceObject: {fileID: 3789504941947615576, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1144814911}
+    - targetCorrespondingSourceObject: {fileID: 1488982713550330450, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 888162582}
+    - targetCorrespondingSourceObject: {fileID: 779464225114297566, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1296657681}
+    - targetCorrespondingSourceObject: {fileID: 5338267260646132325, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 467097046}
+    - targetCorrespondingSourceObject: {fileID: 8681941495663946579, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1748801096}
   m_SourcePrefab: {fileID: 100100000, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351, type: 3}
 --- !u!4 &820413890 stripped
 Transform:
@@ -2659,6 +2776,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &888162579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1488982713550330450, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+    type: 3}
+  m_PrefabInstance: {fileID: 817583240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &888162582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888162579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: breast_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: breast_small
 --- !u!4 &889940453 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5477431679616635986, guid: dd9f8dc1549ab05468205eeab5c2bd47,
@@ -3237,6 +3381,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1144814908 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3789504941947615576, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+    type: 3}
+  m_PrefabInstance: {fileID: 817583240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1144814911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1144814908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: breast_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: breast_small
 --- !u!4 &1148542477 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2988166093259588637, guid: dd9f8dc1549ab05468205eeab5c2bd47,
@@ -3457,6 +3628,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1296657678 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 779464225114297566, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+    type: 3}
+  m_PrefabInstance: {fileID: 817583240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1296657681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296657678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: breast_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: breast_small
 --- !u!4 &1297592176 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3036461711653831698, guid: dd9f8dc1549ab05468205eeab5c2bd47,
@@ -3902,6 +4100,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8278988866269853457, guid: 6fda902e2bdc2ac47a45f6ae18d8502b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396215317263354852, guid: 6fda902e2bdc2ac47a45f6ae18d8502b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8735965698469235533, guid: 6fda902e2bdc2ac47a45f6ae18d8502b,
         type: 3}
@@ -4371,6 +4579,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1748801093 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8681941495663946579, guid: 3e8a5c268bd5d8c40bc08f7ce9dfd351,
+    type: 3}
+  m_PrefabInstance: {fileID: 817583240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1748801096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748801093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: breast_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: breast_small
 --- !u!4 &1750041784 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1133351117879768873, guid: dd9f8dc1549ab05468205eeab5c2bd47,
