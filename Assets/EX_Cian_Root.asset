@@ -23,3 +23,13 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: 5ded178138c81134681ceffec4b6a96d, type: 2}
     subParameters: []
     labels: []
+  - name: Accessory
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d0e65bd53ef554145987448294332def, type: 2}
+    subParameters: []
+    labels: []
