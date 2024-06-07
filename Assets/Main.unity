@@ -195,13 +195,13 @@ PrefabInstance:
         type: 3}
       propertyPath: expressionsMenu
       value: 
-      objectReference: {fileID: 11400000, guid: 355f383df914c1a4ca7e300351a2c849,
+      objectReference: {fileID: 11400000, guid: 488baaa9173ba674882cc448accc0080,
         type: 2}
     - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
       propertyPath: expressionParameters
       value: 
-      objectReference: {fileID: 11400000, guid: 9eee0263df741e845968e15a83efb95b,
+      objectReference: {fileID: 11400000, guid: 6d55457425f33d645a2396d4b487cfe1,
         type: 2}
     - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
@@ -280,75 +280,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 3
-  unityVersion: 2022.3.6f1
-  vrcfuryVersion: 1.925.0
-  somethingIsBroken: 0
-  config:
-    features: []
-  content:
-    rid: 8972617025589608448
-  references:
-    version: 2
-    RefIds:
-    - rid: 8972617025589608448
-      type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
-      data:
-        version: 3
-        name: VRCF/Halo/CubeParticle
-        state:
-          actions:
-          - rid: 8972617025589608449
-        saved: 1
-        slider: 0
-        sliderInactiveAtZero: 0
-        securityEnabled: 0
-        defaultOn: 0
-        includeInRest: 0
-        exclusiveOffState: 0
-        enableExclusiveTag: 0
-        exclusiveTag: 
-        resetPhysbones: []
-        hasExitTime: 0
-        enableIcon: 0
-        icon:
-          version: 1
-          fileID: 0
-          guid: 
-          id: 
-          objRef: {fileID: 0}
-        enableDriveGlobalParam: 0
-        driveGlobalParam: 
-        separateLocal: 0
-        localState:
-          actions: []
-        hasTransition: 0
-        transitionStateIn:
-          actions: []
-        transitionStateOut:
-          actions: []
-        transitionTimeIn: 0
-        transitionTimeOut: 0
-        localTransitionStateIn:
-          actions: []
-        localTransitionStateOut:
-          actions: []
-        localTransitionTimeIn: 0
-        localTransitionTimeOut: 0
-        simpleOutTransition: 1
-        defaultSliderValue: 0
-        useGlobalParam: 0
-        globalParam: 
-        holdButton: 0
-        invertRestLogic: 0
-    - rid: 8972617025589608449
-      type: {class: ObjectToggleAction, ns: VF.Model.StateAction, asm: VRCFury}
-      data:
-        version: 1
-        desktopActive: 0
-        androidActive: 0
-        obj: {fileID: 260949180}
-        mode: 0
 --- !u!114 &199864743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -361,40 +292,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 3
-  unityVersion: 2022.3.6f1
-  vrcfuryVersion: 1.925.0
-  somethingIsBroken: 0
-  config:
-    features: []
-  content:
-    rid: 8972617026166063104
-  references:
-    version: 2
-    RefIds:
-    - rid: 8972617026166063104
-      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
-      data:
-        version: 6
-        linkMode: 4
-        propBone: {fileID: 260949180}
-        linkTo:
-        - useBone: 1
-          bone: 10
-          useObj: 0
-          obj: {fileID: 0}
-          offset: 
-        keepBoneOffsets2: 0
-        removeBoneSuffix: 
-        skinRewriteScalingFactor: 0
-        scalingFactorPowersOf10Only: 1
-        useOptimizedUpload: 0
-        useBoneMerging: 0
-        keepBoneOffsets: 0
-        physbonesOnAvatarBones: 0
-        boneOnAvatar: 0
-        bonePathOnAvatar: 
-        fallbackBones: 
 --- !u!1 &253485958
 GameObject:
   m_ObjectHideFlags: 1
@@ -439,12 +336,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &260949180 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5203739773325311165, guid: 80ce55c344cc5114eaa791a46e0da9a9,
-    type: 3}
-  m_PrefabInstance: {fileID: 1210941022}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &394337736 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 517633624936053430, guid: dd9f8dc1549ab05468205eeab5c2bd47,
