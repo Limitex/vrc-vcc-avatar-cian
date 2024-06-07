@@ -12,9 +12,6 @@
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.8.9"
     },
-    "com.vrcfury.vrcfury": {
-      "version": "1.925.0"
-    },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13"
     },
@@ -42,10 +39,6 @@
       "dependencies": {
         "com.vrchat.avatars": "3.2.x || 3.3.x || 3.4.x || 3.5.x"
       }
-    },
-    "com.vrcfury.vrcfury": {
-      "version": "1.925.0",
-      "dependencies": {}
     },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13",

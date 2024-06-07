@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: IL_Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Switch Object
+    icon: {fileID: 2800000, guid: 5341090b593a98b4db49b5f862ef908a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 86dbd4c17fe6a8b4b8885a773e98b1bb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Toggle Object
+    icon: {fileID: 2800000, guid: d3d2d5698b50c4345a69b2a33ea46a3c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 89f167aa428fe6941a274bd20eea0772, type: 2}
+    subParameters: []
+    labels: []
+  - name: Reset Particle
+    icon: {fileID: 2800000, guid: 3390df2468db5e642a3cce44502ebdd0, type: 3}
+    type: 102
+    parameter:
+      name: IL_SpellMode
+    value: 100
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

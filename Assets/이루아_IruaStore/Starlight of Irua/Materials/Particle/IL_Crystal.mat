@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IL_Crystal
+  m_Shader: {fileID: 4800000, guid: 99d40b3368ff5384c8adc0983d255525, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _SPECULARHIGHLIGHTS_OFF
+  m_InvalidKeywords:
+  - _ISSMOKE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: c61fd2a264473fc45ab67b03de893545, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _EmitPower: 0.2
+    - _Glossiness: 1
+    - _GlossyReflections: 1
+    - _Metalic: 1
+    - _Metallic: 1
+    - _NormalScale: 1
+    - _Smoothness: 0.9
+    - _SpecularHighlights: 0
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 135.58704, g: 135.58704, b: 135.58704, a: 1}
+    - _vertexColor: {r: 0, g: 0, b: 0, a: 0}
+    - vertexColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
