@@ -1099,6 +1099,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube Halo
       objectReference: {fileID: 0}
+    - target: {fileID: 5203739773325311165, guid: 80ce55c344cc5114eaa791a46e0da9a9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
