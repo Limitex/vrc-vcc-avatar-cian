@@ -160,12 +160,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.vrcfury.vrcfury": {
-      "version": "file:com.vrcfury.vrcfury",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.vrchat.avatars": {
       "version": "file:com.vrchat.avatars",
       "depth": 0,
