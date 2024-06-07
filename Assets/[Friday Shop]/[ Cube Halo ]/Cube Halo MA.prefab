@@ -98,9 +98,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 9100000, guid: c246e77febc62774ab4d9eb21d9acb42, type: 2}
   layerType: 5
-  deleteAttachedAnimator: 0
+  deleteAttachedAnimator: 1
   pathMode: 0
-  matchAvatarWriteDefaults: 0
+  matchAvatarWriteDefaults: 1
   relativePathRoot:
     referencePath: 
   layerPriority: 0
