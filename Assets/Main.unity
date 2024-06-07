@@ -131,6 +131,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1321992210437733829, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321992210437733829, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[2]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321992210437733829, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[3]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614027546305096044, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3619573699470872029, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
       propertyPath: m_Name
@@ -191,6 +211,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4951869013648987400, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
       propertyPath: expressionsMenu
@@ -209,7 +234,19 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 9100000, guid: f4625e390311fd3469086eeebd9bde8f, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2226150497470710692, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 7180305456504811425, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 8584525886132415986, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 67635552046792850, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 8577162182033410953, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 6765305332894757566, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 2451689649024913898, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 8957254436021802573, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 7953630301167674677, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 1556107147893612754, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 3251710198048200629, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 3125632375678182143, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4138983664438384487, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
