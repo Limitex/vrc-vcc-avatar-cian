@@ -324,6 +324,7 @@ PrefabInstance:
     - {fileID: 1556107147893612754, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
     - {fileID: 3251710198048200629, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
     - {fileID: 3125632375678182143, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
+    - {fileID: 5497720558375327749, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4138983664438384487, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
@@ -25075,6 +25076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 996529384834035408}
   - component: {fileID: 347678949210925771}
+  - component: {fileID: 5813677302417629138}
   m_Layer: 0
   m_Name: Bag
   m_TagString: Untagged
@@ -25082,6 +25084,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &5813677302417629138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5813677302417629137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: Breast_big
 --- !u!1 &5814122902632016086
 GameObject:
   m_ObjectHideFlags: 0
@@ -30662,6 +30681,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2712619216240779705}
   - component: {fileID: 8417780232018632182}
+  - component: {fileID: 8417780232018632183}
   m_Layer: 0
   m_Name: Shirts
   m_TagString: Untagged
@@ -32886,6 +32906,27 @@ SkinnedMeshRenderer:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0.6, y: 0.8, z: 0.5}
   m_DirtyAABB: 0
+--- !u!114 &8417780232018632183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7803772913596124575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_big
+    LocalBlendshape: Breasts_big
+  - ReferenceMesh:
+      referencePath: Starlight of Irua [Object Menu System]/Body_Base
+    Blendshape: Breasts_small
+    LocalBlendshape: Breasts_small
 --- !u!4 &8445150941442438554
 Transform:
   m_ObjectHideFlags: 0
