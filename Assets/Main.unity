@@ -1642,9 +1642,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
+      propertyPath: baseAnimationLayers.Array.data[3].isDefault
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
       propertyPath: baseAnimationLayers.Array.data[0].animatorController
       value: 
       objectReference: {fileID: 9100000, guid: f4625e390311fd3469086eeebd9bde8f, type: 2}
+    - target: {fileID: 5796070969983098659, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      propertyPath: baseAnimationLayers.Array.data[3].animatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: 11bec5d6591626645a99523ebd28d87d, type: 2}
     - target: {fileID: 6485256514772852123, guid: dd9f8dc1549ab05468205eeab5c2bd47,
         type: 3}
       propertyPath: m_LocalRotation.w
