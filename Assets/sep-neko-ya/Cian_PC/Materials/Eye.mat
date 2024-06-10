@@ -141,7 +141,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Main2ndTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 4fccbf4df4a5f024697fe2dbeba6a82f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Main3rdBlendMask:
@@ -621,7 +621,7 @@ Material:
     - _UseEmission: 0
     - _UseEmission2nd: 0
     - _UseGlitter: 0
-    - _UseMain2ndTex: 0
+    - _UseMain2ndTex: 1
     - _UseMain3rdTex: 0
     - _UseMatCap: 0
     - _UseMatCap2nd: 0
@@ -656,7 +656,7 @@ Material:
     - _BacklightColor: {r: 0.85, g: 0.8, b: 0.7, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color2nd: {r: 1, g: 1, b: 1, a: 1}
+    - _Color2nd: {r: 1, g: 1, b: 1, a: 0.5}
     - _Color3rd: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveNoiseMask_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
