@@ -12,4 +12,74 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: EX Starlight of the fox Right
   m_EditorClassIdentifier: 
-  controls: []
+  controls:
+  - name: FlameIce
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: FlameIce.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Rainbow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Rainbow.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: ReverseRainbow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ReverseRainbow.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SourLime
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SourLime.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SweetGrapes
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SweetGrapes.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: TastedWhite
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: TastedWhite.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tropical
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Tropical.R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

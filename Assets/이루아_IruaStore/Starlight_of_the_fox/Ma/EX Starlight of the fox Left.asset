@@ -23,3 +23,63 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
+  - name: Rainbow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Rainbow.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: ReverseRainbow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ReverseRainbow.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SourLime
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SourLime.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SweetGrapes
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SweetGrapes.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: TastedWhite
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: TastedWhite.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tropical
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Tropical.L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
