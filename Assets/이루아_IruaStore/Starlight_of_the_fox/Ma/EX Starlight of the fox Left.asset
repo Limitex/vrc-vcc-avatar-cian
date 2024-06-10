@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: FlameIce
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: FlameIce.L
@@ -24,7 +24,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Rainbow
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: Rainbow.L
@@ -34,7 +34,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: ReverseRainbow
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: ReverseRainbow.L
@@ -44,7 +44,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: SourLime
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: SourLime.L
@@ -54,7 +54,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: SweetGrapes
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: SweetGrapes.L
@@ -64,7 +64,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: TastedWhite
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: TastedWhite.L
@@ -74,7 +74,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Tropical
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: bb0ae7134ff21f24dbfdc9415476923a, type: 3}
     type: 102
     parameter:
       name: Tropical.L
