@@ -1699,6 +1699,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1505314884}
+    - targetCorrespondingSourceObject: {fileID: 4138983664438384487, guid: dd9f8dc1549ab05468205eeab5c2bd47,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 198780433}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd9f8dc1549ab05468205eeab5c2bd47, type: 3}
 --- !u!4 &35716192 stripped
@@ -1850,6 +1854,86 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2902526359625940710, guid: dd9f8dc1549ab05468205eeab5c2bd47,
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &198780432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 35716192}
+    m_Modifications:
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2676552754670829970, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: installTargetMenu
+      value: 
+      objectReference: {fileID: 11400000, guid: d0e65bd53ef554145987448294332def,
+        type: 2}
+    - target: {fileID: 8747868424855525554, guid: 5a6e526bfa41299438a7a12c38d269ae,
+        type: 3}
+      propertyPath: m_Name
+      value: Starlight of the fox
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a6e526bfa41299438a7a12c38d269ae, type: 3}
+--- !u!4 &198780433 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2394654108512436542, guid: 5a6e526bfa41299438a7a12c38d269ae,
+    type: 3}
+  m_PrefabInstance: {fileID: 198780432}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &200298650 stripped
 Transform:
