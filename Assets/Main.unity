@@ -3048,7 +3048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   menuToAppend: {fileID: 11400000, guid: ada5162ee83f00b4eba4a19e69f19b8b, type: 2}
-  installTargetMenu: {fileID: 0}
+  installTargetMenu: {fileID: 11400000, guid: d0e65bd53ef554145987448294332def, type: 2}
 --- !u!1 &128665327
 GameObject:
   m_ObjectHideFlags: 0
