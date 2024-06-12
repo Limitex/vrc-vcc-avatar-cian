@@ -14592,6 +14592,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1736073186}
+  - {fileID: 2004537299}
   m_Father: {fileID: 503425310}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1410255553 stripped
@@ -20493,6 +20494,58 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 35716191}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2004537298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2004537299}
+  - component: {fileID: 2004537300}
+  m_Layer: 0
+  m_Name: Hair_collider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2004537299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004537298}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.007, z: -0.34}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1392122646}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2004537300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004537298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1631200402, guid: 2a2c05204084d904aa4945ccff20d8e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rootTransform: {fileID: 0}
+  shapeType: 1
+  insideBounds: 0
+  radius: 0.08
+  height: 0.25
+  position: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0.70710677, w: 0.70710677}
+  bonesAsSpheres: 0
 --- !u!1 &2005292622
 GameObject:
   m_ObjectHideFlags: 0
@@ -22945,7 +22998,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -24372,7 +24426,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -28924,7 +28979,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -29365,7 +29421,7 @@ MonoBehaviour:
   prefix: 
   suffix: 
   legacyLocked: 0
-  LockMode: 2
+  LockMode: 1
   mangleNames: 1
 --- !u!4 &1247011693814368243
 Transform:
@@ -34086,7 +34142,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -35174,7 +35231,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -36473,7 +36531,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -37280,7 +37339,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -42184,7 +42244,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -48472,7 +48533,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -49169,7 +49231,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -55809,7 +55872,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -60539,7 +60603,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -64451,7 +64516,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
@@ -65561,7 +65627,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 2004537300}
   limitType: 1
   maxAngleX: 23.3
   maxAngleXCurve:
