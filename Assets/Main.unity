@@ -18238,7 +18238,7 @@ PrefabInstance:
     - target: {fileID: 2672248134776668580, guid: 32b91a44efe09c840807a5f17e0b42dd,
         type: 3}
       propertyPath: m_Name
-      value: MA Selector
+      value: 2 MA Selector - Hair
       objectReference: {fileID: 0}
     - target: {fileID: 2916960187269619039, guid: 32b91a44efe09c840807a5f17e0b42dd,
         type: 3}
