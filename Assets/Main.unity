@@ -11299,7 +11299,7 @@ PrefabInstance:
     - target: {fileID: 1125391492177605809, guid: 0a3ab3bb9abaa594e8e6b9a2231e8a77,
         type: 3}
       propertyPath: m_Name
-      value: 3 MA Selector - Glasses
+      value: 3s MA Selector - Glasses
       objectReference: {fileID: 0}
     - target: {fileID: 1324736233619698280, guid: 0a3ab3bb9abaa594e8e6b9a2231e8a77,
         type: 3}
@@ -18318,7 +18318,7 @@ PrefabInstance:
     - target: {fileID: 2672248134776668580, guid: 32b91a44efe09c840807a5f17e0b42dd,
         type: 3}
       propertyPath: m_Name
-      value: 2 MA Selector - Hair
+      value: 2s MA Selector - Hair
       objectReference: {fileID: 0}
     - target: {fileID: 2916960187269619039, guid: 32b91a44efe09c840807a5f17e0b42dd,
         type: 3}
