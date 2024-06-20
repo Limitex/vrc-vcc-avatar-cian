@@ -10,16 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
-  m_Name: MA Selector Title
+  m_Name: 2s MA Selector
   m_EditorClassIdentifier: 
   controls:
-  - name: Glasses
+  - name: Default
     icon: {fileID: 0}
-    type: 103
+    type: 101
     parameter:
-      name: 
+      name: Select
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: d74eb5e52e39832469032968c7058b02, type: 2}
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Lovely twin hair
+    icon: {fileID: 0}
+    type: 101
+    parameter:
+      name: Select
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
     subParameters: []
     labels: []
