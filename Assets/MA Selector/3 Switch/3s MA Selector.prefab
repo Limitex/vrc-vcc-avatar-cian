@@ -71,10 +71,10 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 1
     localOnly: 0
-    defaultValue: 0
+    defaultValue: 1
     saved: 1
-    hasExplicitDefaultValue: 0
-    m_overrideAnimatorDefaults: 0
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 1
 --- !u!114 &1927434097967051895
 MonoBehaviour:
   m_ObjectHideFlags: 0

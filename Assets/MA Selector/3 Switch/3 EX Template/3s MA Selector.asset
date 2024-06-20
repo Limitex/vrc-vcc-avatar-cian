@@ -15,7 +15,7 @@ MonoBehaviour:
   controls:
   - name: 1
     icon: {fileID: 0}
-    type: 101
+    type: 102
     parameter:
       name: Select
     value: 1
@@ -25,7 +25,7 @@ MonoBehaviour:
     labels: []
   - name: 2
     icon: {fileID: 0}
-    type: 101
+    type: 102
     parameter:
       name: Select
     value: 2
@@ -35,7 +35,7 @@ MonoBehaviour:
     labels: []
   - name: 3
     icon: {fileID: 0}
-    type: 101
+    type: 102
     parameter:
       name: Select
     value: 3
