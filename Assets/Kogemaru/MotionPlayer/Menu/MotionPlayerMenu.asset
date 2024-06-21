@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MotionPlayerMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: On/Off
+    icon: {fileID: 2800000, guid: af5c4182231167447ae518c998f9fa03, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl_OnOff
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 01
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 02
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 03
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 04
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 05
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 06
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 07
+    icon: {fileID: 2800000, guid: 179263ab24cb8ba438a9491908d7dcd3, type: 3}
+    type: 102
+    parameter:
+      name: MotionPlayerCtrl
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
