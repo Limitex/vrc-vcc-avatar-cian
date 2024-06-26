@@ -12,14 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: EX_Cian_Avatar
   m_EditorClassIdentifier: 
-  controls:
-  - name: Facial Change
-    icon: {fileID: 2800000, guid: 56c0b776bca3d094f9a6c9777171e999, type: 3}
-    type: 103
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 11400000, guid: 884f90c7b0b4d3640b88e01f30fa8f4e, type: 2}
-    subParameters: []
-    labels: []
+  controls: []
