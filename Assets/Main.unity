@@ -48452,10 +48452,9 @@ MonoBehaviour:
     isDefault: 0
   - isEnabled: 0
     type: 5
-    animatorController: {fileID: 9100000, guid: 5383967c9f8fd4e419fafab33ee9d975,
-      type: 2}
+    animatorController: {fileID: 0}
     mask: {fileID: 0}
-    isDefault: 0
+    isDefault: 1
   specialAnimationLayers:
   - isEnabled: 0
     type: 6
