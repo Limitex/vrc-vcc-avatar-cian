@@ -13,16 +13,6 @@ MonoBehaviour:
   m_Name: EX_Cian_Root
   m_EditorClassIdentifier: 
   controls:
-  - name: Suimin
-    icon: {fileID: 2800000, guid: 4eac21cb343714f4f985cbe7668a1bc4, type: 3}
-    type: 103
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 11400000, guid: 5ded178138c81134681ceffec4b6a96d, type: 2}
-    subParameters: []
-    labels: []
   - name: Avatar
     icon: {fileID: 0}
     type: 103

@@ -13,26 +13,6 @@ MonoBehaviour:
   m_Name: EX_Cian_Root_Param
   m_EditorClassIdentifier: 
   parameters:
-  - name: VRCSupine
-    valueType: 0
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: VRCLockPose
-    valueType: 2
-    saved: 0
-    defaultValue: 0
-    networkSynced: 1
-  - name: VRCFootAnchor
-    valueType: 2
-    saved: 0
-    defaultValue: 0
-    networkSynced: 1
-  - name: VRCFootAnchorHandSwitchable
-    valueType: 2
-    saved: 1
-    defaultValue: 1
-    networkSynced: 0
   - name: FC
     valueType: 0
     saved: 1
