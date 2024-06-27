@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &594537370426323656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6944820918877128759}
+  - component: {fileID: 1428370481537619234}
+  - component: {fileID: 8114813992861809729}
+  - component: {fileID: 1264192597381958254}
+  - component: {fileID: 4197924242991260006}
+  - component: {fileID: 5349477707726190770}
+  - component: {fileID: 5486885627127707675}
+  - component: {fileID: 1979312931722535723}
+  m_Layer: 0
+  m_Name: GogoLoco Beyond (MA)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6944820918877128759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.1326, y: 1.1326, z: 1.1326}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1428370481537619234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: f0eb4443b18594c43813f6ffeb2dbe8a, type: 2}
+  layerType: 0
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+--- !u!114 &8114813992861809729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: 1863ae6c944b73343abbbefe18125e0f, type: 2}
+  layerType: 4
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+--- !u!114 &1264192597381958254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: d75f14b0507340640b969cd6c4c51359, type: 2}
+  layerType: 6
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+--- !u!114 &4197924242991260006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: 044caa5ee04c7964ea6b5b137aa6a663, type: 2}
+  layerType: 5
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+--- !u!114 &5349477707726190770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: 2e96ef8dd5c6a2c478db2c296acd8e16, type: 2}
+  layerType: 7
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+--- !u!114 &5486885627127707675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef83cb0c23d4d7c9d41021e544a1978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuToAppend: {fileID: 11400000, guid: 79bfcfb25aeb4224b8696f3e093718ad, type: 2}
+  installTargetMenu: {fileID: 0}
+--- !u!114 &1979312931722535723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594537370426323656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a96d4ea0c344f39e277d82035bf9bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parameters:
+  - nameOrPrefix: VRCEmote
+    remapTo: GoLocoVRCEmote
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 1
+    localOnly: 0
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/Locomotion
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 1
+    defaultValue: 0
+    saved: 1
+  - nameOrPrefix: Go/ProneIdle
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 1
+    localOnly: 1
+    defaultValue: 0
+    saved: 1
+  - nameOrPrefix: Go/PuppetY
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/Float
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 0
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/PoseRadialFactor
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/CrouchIdle
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 1
+    localOnly: 1
+    defaultValue: 0
+    saved: 1
+  - nameOrPrefix: Go/StandIdle
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 1
+    localOnly: 1
+    defaultValue: 0
+    saved: 1
+  - nameOrPrefix: Go/Jump&Fall
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 1
+    defaultValue: 0
+    saved: 1
+  - nameOrPrefix: Go/Height
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/Swimming
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/PoseRadial
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/PuppetX
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
+  - nameOrPrefix: Go/Stationary
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 1
+    defaultValue: 0
+    saved: 0
